@@ -1,11 +1,11 @@
 {
-    "ET.Dashboard.Column.State": "{T}State",
-    "ET.Dashboard.Listing.Documents": "{T}Documents",
-    "ET.Dashboard.Column.Language": "{T}Language",
-    "ET.Dashboard.Column.NextStates": "{T}Next State",
-    "Action.View": "{T}View",
-    "Action.Edit": "{T}Edit",
-    "Action.Delete": "{T}Delete",
-    "Action.List": "{T}List",
-    "Action.Transit": "{T}Transit"
+    "ETDashboardColumnState": "{T}State",
+    "ETDashboardListingDocuments": "{T}Documents",
+    "ETDashboardColumnLanguage": "{T}Language",
+    "ETDashboardColumnNextStates": "{T}Next State",
+    "ActionView": "{T}View",
+    "ActionEdit": "{T}Edit",
+    "ActionDelete": "{T}Delete",
+    "ActionList": "{T}List",
+    "ActionTransit": "{T}Transit"
 }
