@@ -2,5 +2,10 @@
     "ET.Dashboard.Column.State": "State",
     "ET.Dashboard.Listing.Documents": "Documents",
     "ET.Dashboard.Column.Language": "Language",
-    "ET.Dashboard.Column.NextStates": "Next State"
+    "ET.Dashboard.Column.NextStates": "Next State",
+    "Action.View": "View",
+    "Action.Edit": "Edit",
+    "Action.Delete": "Delete",
+    "Action.List": "List",
+    "Action.Transit": "Transit"
 }

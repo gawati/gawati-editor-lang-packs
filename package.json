@@ -1,6 +1,6 @@
 {
   "name": "gawati-editor-lang-packs",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A language package for Gawati Editor UI & Server strings",
   "main": "index.js",
   "scripts": {
